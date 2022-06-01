@@ -33,4 +33,4 @@ def send_message():
     button = Button(app,text="Enviar Mensagem",command=send_message,width="30",height="2",bg="grey")
     button.place(x=15,y=220)
     mainloop()
-//código adaptado do python.hub (instagram)
+#código adaptado do python.hub (instagram)
